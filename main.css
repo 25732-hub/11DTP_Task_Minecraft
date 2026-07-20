@@ -91,6 +91,7 @@ body {
 }
 
 .footer {
+    clear: both;
     text-align: center;
     padding: 30px;
     color: #777;
@@ -98,6 +99,8 @@ body {
 }
 
 .mini-link {
+    clear: both;
+    text-align: center;
     color: #666;
     font-size: 12px;
 }
