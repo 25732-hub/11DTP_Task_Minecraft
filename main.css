@@ -1,0 +1,103 @@
+* {
+    margin: 0;
+}
+
+body {
+    font-family: sans-serif;
+    background-color: #fafafa;
+    color: #222;
+}
+
+.main-title {
+    text-align: center;
+    padding: 20px;
+    background-color: #ffffff;
+    border: 3px solid #222;
+    max-width: 800px;
+    margin: 20px auto; 
+}
+
+.main-title h1 {
+    font-size: 36px;
+}
+
+.main-title h3 {
+    font-size: 16px;
+    color: #555;
+}
+
+.main-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.intro-row {
+    border: 3px solid #222;
+    background-color: #fff;
+    padding: 15px;
+    margin-bottom: 20px;
+    overflow: hidden;
+}
+
+.intro-row .image-box {
+    float: left;
+    width: 150px;
+    height: 150px;
+    border: 3px solid #222;
+    margin-right: 20px;
+}
+
+.intro-row.reverse .image-box {
+    float: right;
+    margin-right: 0;
+    margin-left: 20px;
+}
+
+.intro-row h2 {
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+
+.intro-row p {
+    font-size: 14px;
+}
+
+.section-title {
+    font-size: 24px;
+    margin: 30px 0 15px 0;
+}
+
+.mob-card {
+    float: left;
+    width: 45%; 
+    margin-right: 5%;
+    margin-bottom: 25px;
+}
+
+.mob-link {
+    font-size: 20px;
+    font-weight: bold;
+    color: #000;
+    text-decoration: underline;
+    display: block;
+    margin-bottom: 5px;
+}
+
+.mob-image {
+    width: 120px;
+    height: 120px;
+    border: 3px solid #222;
+}
+
+.footer {
+    text-align: center;
+    padding: 30px;
+    color: #777;
+    font-size: 14px;
+}
+
+.mini-link {
+    color: #666;
+    font-size: 12px;
+}
