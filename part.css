@@ -1,9 +1,14 @@
-body{
+body {
     background-color: black;
     color: aliceblue;
-    
+
 }
 
-.Zombie title{
+.Zombie title {
 
+}
+
+.back {
+    text-align: right;
+    color: rgb(220, 235, 248);
 }
