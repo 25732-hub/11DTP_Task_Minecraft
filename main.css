@@ -8,7 +8,7 @@ body {
     color: #222;
 }
 
-.main-title {
+.main_title {
     text-align: center;
     padding: 20px;
     background-color: #ffffff;
@@ -17,22 +17,22 @@ body {
     margin: 20px auto; 
 }
 
-.main-title h1 {
+.main_title h1 {
     font-size: 36px;
 }
 
-.main-title h3 {
+.main_title h3 {
     font-size: 16px;
     color: #555;
 }
 
-.main-container {
+.main_container {
     max-width: 800px;
     margin: 0 auto;
     padding: 0 15px;
 }
 
-.intro-row {
+.intro_row {
     border: 3px solid #222;
     background-color: #fff;
     padding: 15px;
@@ -40,7 +40,7 @@ body {
     overflow: hidden;
 }
 
-.intro-row .image-box {
+.intro_row .image_box {
     float: left;
     width: 150px;
     height: 150px;
@@ -48,34 +48,34 @@ body {
     margin-right: 20px;
 }
 
-.intro-row.reverse .image-box {
+.intro_row.reverse .image_box {
     float: right;
     margin-right: 0;
     margin-left: 20px;
 }
 
-.intro-row h2 {
+.intro_row h2 {
     font-size: 20px;
     margin-bottom: 5px;
 }
 
-.intro-row p {
+.intro_row p {
     font-size: 14px;
 }
 
-.section-title {
+.section_title {
     font-size: 24px;
     margin: 30px 0 15px 0;
 }
 
-.mob-card {
+.mob_card {
     float: left;
     width: 45%; 
     margin-right: 5%;
     margin-bottom: 25px;
 }
 
-.mob-link {
+.mob_link {
     font-size: 20px;
     font-weight: bold;
     color: #000;
@@ -84,7 +84,7 @@ body {
     margin-bottom: 5px;
 }
 
-.mob-image {
+.mob_image {
     width: 120px;
     height: 120px;
     border: 3px solid #222;
@@ -98,7 +98,7 @@ body {
     font-size: 14px;
 }
 
-.mini-link {
+.mini_link {
     clear: both;
     text-align: center;
     color: #666;
