@@ -7,13 +7,19 @@ body {
 .Zombie_title {
     text-align: center;
     font-size: 36px;
-    color: rgb(0, 255, 128);
+    color: rgb(4, 126, 65);
 }
 
 .Skeleton_title {
     text-align: center;
     font-size: 36px;
     color: azure;
+}
+
+.Creeper_title {
+    text-align: center;
+    font-size: 36px;
+    color: rgb(56, 234, 94);
 }
 
 .Zombie_P {
