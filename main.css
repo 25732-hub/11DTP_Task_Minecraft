@@ -4,7 +4,7 @@
 
 body {
     font-family: sans-serif;
-    background-color: #d8d7d7;
+    background-color: #767676;
     color: #222;
 }
 
@@ -82,6 +82,9 @@ body {
     text-decoration: underline;
     display: block;
     margin-bottom: 5px;
+    background-color: #bcbbbb;
+    border: 3px solid #222;
+    max-width: 110px;
 }
 
 .mob_image {
@@ -101,6 +104,6 @@ body {
 .mini_link {
     clear: both;
     text-align: center;
-    color: #666;
+    color: #c6c6c6;
     font-size: 12px;
 }

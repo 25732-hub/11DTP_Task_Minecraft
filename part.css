@@ -10,15 +10,23 @@ body {
     color: rgb(0, 255, 128);
 }
 
+.Skeleton_title {
+    text-align: center;
+    font-size: 36px;
+    color: azure;
+}
+
 .Zombie_P {
     width: 800px;
     margin-top: 50px;
     margin-left: -20px;
+    font-size: 13px;
 }
 
 .Zombie_info {
     width: 800px;
     margin-top: 50px;
+    font-size: 20px;
 }
 
 .info_wrap {
@@ -28,10 +36,21 @@ body {
     margin-left: 50px;
 }
 
+.Zombie_suggestion {
+    font-size: 20px;
+    width: 800px;
+    margin-top: 50px;
+}
+
 a {
     width: 80px;
     margin-top: 20px;
     text-align: right;
     color: rgb(152, 193, 230);
     text-decoration: none;
+}
+
+img {
+    width: 30%;
+    height: auto;
 }
