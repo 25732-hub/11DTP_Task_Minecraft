@@ -29,6 +29,8 @@ body {
 }
 
 a {
+    width: 80px;
+    margin-top: 20px;
     text-align: right;
     color: rgb(152, 193, 230);
     text-decoration: none;
