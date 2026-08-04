@@ -34,6 +34,16 @@ body {
     color: darkslategrey;
 }
 
+.Spider_title {
+    text-align: center;
+    font-size: 36px;
+    color: brown;
+}
+
+.Spider {
+    margin-top: 10%;
+}
+
 .Zombie_P {
     width: 800px;
     margin-top: 50px;
