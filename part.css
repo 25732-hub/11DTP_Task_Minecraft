@@ -77,9 +77,14 @@ body {
     margin-top: 50px;
 }
 
+.link {
+    clear: both;
+    text-align: right;
+    margin-right: 50px;
+    margin-top: 50px;
+}
 a {
-    width: 80px;
-    margin-top: 20px;
+    width: 200px;
     text-align: right;
     color: rgb(152, 193, 230);
     text-decoration: none;
