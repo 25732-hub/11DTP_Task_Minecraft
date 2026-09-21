@@ -51,7 +51,7 @@ body {
     margin-top: 10%;
 }
 
-.Zombie_P {
+.mob-description {
     max-width: 800px;
     width: 100%;
     margin-top: 50px;
@@ -59,7 +59,7 @@ body {
     font-size: 15px;
 }
 
-.Zombie_info {
+.mob-information {
     max-width: 800px;
     width: 100%;
     margin-top: 50px;
@@ -73,7 +73,7 @@ body {
     margin-left: 50px;
 }
 
-.Zombie_suggestion {
+.Suggestion {
     font-size: 20px;
     max-width: 800px;
     width: 100%;
